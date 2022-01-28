@@ -1,0 +1,15 @@
+{
+  "name": "try-mocha-subprocess-esm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dword-design/try-mocha-subprocess-esm.git",
+  "author": "dword <info@sebastianlandwehr.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@dword-design/functions": "^4.0.7",
+    "execa": "^6.0.0",
+    "file-uri-to-path": "^2.0.0",
+    "parent-module": "^3.0.0"
+  }
+}
